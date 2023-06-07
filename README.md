@@ -12,7 +12,7 @@ Office Color Blind Mod for Inside the Backrooms. Allows changing the 8 colors th
   - Press install
 
 ### OfficeColorBlind Mod Install Steps
-  - Download the mod https://github.com/codenamexanz/ITBSpeedrunnerMod/raw/main/OfficeColorBlindMod.dll
+  - Download the mod https://github.com/codenamexanz/ITBOfficeColorBlindMod/raw/master/ITBOfficeColorBlindMod.dll
   - Add the dll into the Mods folder generated within the Inside the Backrooms folder
 
 
