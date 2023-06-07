@@ -31,3 +31,6 @@ MelonLoader is an open source mod loader for Unity games - Link: https://github.
 Microsoft .NET Desktop Runtime is a runtime library, made by Microsoft that is needed for MelonLoader 0.6.0 - Link: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ITBOfficeColorBlindMod is an open source MelonLoader mod developed by @Xanz - Link: https://github.com/codenamexanz/ITBOfficeColorBlindMod
+
+## Note:
+ - The mod does not work in multiplayer! It will only work for the host, as the postit colors will not appear for other players, as well as computer images not appearing at all.
